@@ -2,7 +2,9 @@
 - 🌱 I’m currently learning Python
 - 😄 Pronouns: they/them
 
-[![Alia's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-feltesdeyapp&show_icons=true&theme=material-palenight&hide=issues&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-feltesdeyapp&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) 
+[![Alia's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-feltesdeyapp&show_icons=true&theme=material-palenight&hide=issues&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-feltesdeyapp&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alia_fd)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **a-feltesdeyapp/a-feltesdeyapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
