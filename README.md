@@ -1,5 +1,8 @@
-- 🔭 I’m currently helping clean up ASTRA, an award winning project I worked on over the past year. 
-- 🌱 I’m currently learning Python
+<img src = "./misc/affd-header-image.png" alt = "Header image, reading 'Hi :wave:, I'm Alia Feltes-DeYapp. Engineering Grad'.">
+
+- 🔭 I’m helping clean up ASTRA, an award winning project I worked on over the past year. 
+- 🌱 I’m currently learning Python.
+- 📫 How to reach me:  <a href="www.linkedin.com/in/alia-fd">LinkedIn</a> or <a href="a.feltesdeyapp@icloud.com">Email</a>
 - 😄 Pronouns: they/them
 
 [![Alia's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-feltesdeyapp&show_icons=true&theme=material-palenight&hide=issues&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
